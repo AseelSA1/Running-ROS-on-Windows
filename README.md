@@ -1,4 +1,3 @@
-```markdown
 # Running ROS on Windows using WSL 2 (Ubuntu)
 
 This guide documents the setup process, installation steps, and troubleshooting tips for running **ROS (Robot Operating System)** on Windows using **Windows Subsystem for Linux (WSL 2)** with **Ubuntu**.
